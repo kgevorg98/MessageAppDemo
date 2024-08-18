@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type_a_message_placeholder">Write a message…</string>
+    <string name="search_placeholder">Search…</string>
+    <string name="tech_hub">Tech Hub</string>
+    <string name="video_content_description">Video</string>
+    <string name="remove_content_description">Remove</string>
+    <string name="attach_content_description">Attach</string>
+    <string name="send_content_description">Send</string>
+    <string name="play_content_description">Play</string>
+    <string name="clear_text_content_description">Clear text</string>
+    <string name="close_search_content_description">Close Search</string>
+    <string name="back_content_description">Back</string>
+    <string name="search_content_description">Search</string>
+    <string name="delete_content_description">delete</string>
+    <string name="edit_content_description">Edit</string>
+    <string name="delete_all_content_description">delete all messages</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_deletion">Confirm Deletion\n</string>
+    <string name="confirm_delete_all_messages">Confirm delete all messages</string>
+</resources>
