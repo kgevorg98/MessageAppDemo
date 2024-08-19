@@ -10,7 +10,7 @@ Actions.
 6)play video directly in application
 7)Media preview on top of editText with remove option
 
-Currently only one image or video media is Item possible to send alongside the text. 
+Currently only one image or video media Item is possible to send alongside the text. 
 
 By default app fetches 30 messages on per page.
 Search is performed by it's text. Click on Top right Search icon.
