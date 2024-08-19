@@ -241,7 +241,7 @@ fun BottomInputBar(
                         isPhoto = false
                         isVideo = false
                     } else {
-                        TODO("Add voice message logic")
+                      //  TODO("Add voice message logic")
                     }
                 },
                 modifier = Modifier
